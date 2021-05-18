@@ -40,10 +40,11 @@ confusing data into clear and clean information.
 <br />
 <br />
 
-```js
+
+<p align="center">
+  ```js
   {...love} !hate
 ```
-<p align="center">
   Made with ❤️ by
   <b>
   <a href="https://github.com/vbianchidev/" target="_blank">Vitor Bianchi</a> 
