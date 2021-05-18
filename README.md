@@ -38,10 +38,7 @@ confusing data into clear and clean information.
 <br />
 <br />
 <br />
-<br />
-```js
-  {...love} !hate
-```
+
 
 <p align="center">
   Made with ❤️ by
