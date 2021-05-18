@@ -39,12 +39,11 @@ confusing data into clear and clean information.
 <br />
 <br />
 <br />
-
-
-<p align="center">
-  ```js
+```js
   {...love} !hate
 ```
+
+<p align="center">
   Made with ❤️ by
   <b>
   <a href="https://github.com/vbianchidev/" target="_blank">Vitor Bianchi</a> 
