@@ -10,9 +10,7 @@ I’m a Fullstack Web Developer(focusing on Frontend) and
 my two loves is Data Science and Web Design.<br>
 I'm fascinated by the art of transforming complex and
 confusing data into clear and clean information.
-```js
-  {...love} !hate
-```
+
 
 ![HTML5](https://img.shields.io/badge/-Html5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-Css3-000000?style=flat&logo=css3&logoColor=1572B6)
@@ -42,6 +40,9 @@ confusing data into clear and clean information.
 <br />
 <br />
 
+```js
+  {...love} !hate
+```
 <p align="center">
   Made with ❤️ by
   <b>
