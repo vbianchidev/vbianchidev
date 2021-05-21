@@ -3,9 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vbianchidev/)](https://github.com/vbianchidev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-bianchi-0a10ba205/)](https://www.linkedin.com/in/vitor-bianchi-0a10ba205/)
 
-<br />
-
-## About me
 I’m a Fullstack Web Developer(focusing on Frontend) and
 my two loves is Data Science and Web Design.<br>
 I'm fascinated by the art of transforming complex and
