@@ -3,14 +3,14 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vbianchidev/)](https://github.com/vbianchidev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-bianchi-0a10ba205/)](https://www.linkedin.com/in/vitor-bianchi-0a10ba205/)
 
-<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" width="150"/>
+<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" width="250"/>
 
 I’m a Fullstack Web Developer(.NET Framework & Angular) and
 my two loves is Data Science and Web Design.<br>
 I'm fascinated by the art of transforming complex and
-confusing data into clear and clean information.<br><br>
+confusing data into clear and clean information.<br><br><br>
 
-
+<br/>
 
 ## 🛠 Hard Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-1a1b27?style=for-the-badge&logo=Html5&logoColor=38bdae)&nbsp;
