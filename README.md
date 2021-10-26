@@ -15,11 +15,11 @@ confusing data into clear and clean information.<br><br>
 ## 🛠 Hard Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-1a1b27?style=for-the-badge&logo=Html5&logoColor=38bdae)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=38bdae)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-1a1b27?style=for-the-badge-square&logo=javascript&logoColor=38bdae)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=38bdae)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=38bdae)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-1a1b27?style=for-the-badge-square&logo=Angular&logoColor=38bdae)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=563D7C&logoColor=38bdae)&nbsp;
-![Nodejs](https://img.shields.io/badge/-NodeJS-1a1b27?style=for-the-badge-square&logo=Nodejs&logoColor=38bdae)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-1a1b27?style=for-the-badge&logo=Angular&logoColor=38bdae)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=38bdae)&nbsp;
+![Nodejs](https://img.shields.io/badge/-NodeJS-1a1b27?style=for-the-badge&logo=node&logoColor=38bdae)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=38bdae)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-1a1b27?style=for-the-badge&logo=sqlserver&logoColor=38bdae)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=38bdae)&nbsp;
