@@ -5,10 +5,10 @@
 
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" width="150"/>
 
-I’m a Fullstack Web Developer(focusing on Frontend) and
+I’m a Fullstack Web Developer(.NET Framework & Angular) and
 my two loves is Data Science and Web Design.<br>
 I'm fascinated by the art of transforming complex and
-confusing data into clear and clean information.
+confusing data into clear and clean information.<br><br>
 
 
 
