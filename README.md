@@ -8,18 +8,20 @@ my two loves is Data Science and Web Design.<br>
 I'm fascinated by the art of transforming complex and
 confusing data into clear and clean information.
 
+<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" width="150"/>
 
-![HTML5](https://img.shields.io/badge/-Html5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-Css3-000000?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat-square&logo=Nodejs)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
-![SQLServer](https://img.shields.io/badge/-SQLServer-000000?style=flat&logo=SQLServer)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+### 🛠 &nbsp;Tech Stack
 
+![HTML5](https://img.shields.io/badge/Html5-ED8B00?style=for-the-badge&logo=Html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-Css3-000000?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge-square&logo=javascript&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge-square&logo=Angular&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C&logoColor=white)&nbsp;
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=for-the-badge-square&logo=Nodejs&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-000000?style=for-the-badge&logo=SQLServer&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 <br />
 
