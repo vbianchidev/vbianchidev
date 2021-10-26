@@ -12,11 +12,12 @@ confusing data into clear and clean information.
 ![HTML5](https://img.shields.io/badge/-Html5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-Css3-000000?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Nodejs)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
+![Nodejs](https://img.shields.io/badge/-Nodejs?style=flat-square&logo=Nodejs)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![SQLServer](https://img.shields.io/badge/-SQLServer-000000?style=flat&logo=SQLServer)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 
 
