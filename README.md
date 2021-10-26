@@ -12,16 +12,17 @@ confusing data into clear and clean information.
 
 ### 🛠 &nbsp;Tech Stack
 
-![HTML5](https://img.shields.io/badge/Html5-ED8B00?style=for-the-badge&logo=Html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-Css3-000000?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge-square&logo=javascript&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge-square&logo=Angular&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C&logoColor=white)&nbsp;
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=for-the-badge-square&logo=Nodejs&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SQLServer](https://img.shields.io/badge/-SQLServer-000000?style=for-the-badge&logo=SQLServer&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+![HTML5](https://img.shields.io/badge/-HTML5-1a1b27?style=for-the-badge&logo=Html5&logoColor=38bdae)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=38bdae)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-1a1b27?style=for-the-badge-square&logo=javascript&logoColor=38bdae)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=38bdae)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-1a1b27?style=for-the-badge-square&logo=Angular&logoColor=38bdae)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=563D7C&logoColor=38bdae)&nbsp;
+![Nodejs](https://img.shields.io/badge/-NodeJS-1a1b27?style=for-the-badge-square&logo=Nodejs&logoColor=38bdae)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=38bdae)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-1a1b27?style=for-the-badge&logo=sqlserver&logoColor=38bdae)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=38bdae)&nbsp;
 
 <br />
 
