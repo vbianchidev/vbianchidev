@@ -26,8 +26,8 @@ confusing data into clear and clean information.
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/vbianchidev/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbianchidev&show_icons=true&locale=pt-BR&layout=compact&theme=dark" alt="vbianchidev" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vbianchidev&show_icons=true&locale=pt-BR&theme=dark" alt="vbianchidev" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbianchidev&show_icons=true&locale=pt-BR&layout=compact&theme=tokyonight" alt="vbianchidev" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vbianchidev&show_icons=true&locale=pt-BR&theme=tokyonight" alt="vbianchidev" />
   </a>
 </p>
 
