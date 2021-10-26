@@ -12,9 +12,7 @@ confusing data into clear and clean information.<br><br>
 
 
 
-### 🛠 &nbsp;Tech Stack
-
-
+## 🛠 Hard Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-1a1b27?style=for-the-badge&logo=Html5&logoColor=38bdae)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=38bdae)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-1a1b27?style=for-the-badge-square&logo=javascript&logoColor=38bdae)&nbsp;
@@ -39,8 +37,5 @@ confusing data into clear and clean information.<br><br>
 
 
 <p align="center">
-  Made with ❤️ by
-  <b>
-  <a href="https://github.com/vbianchidev/" target="_blank">Vitor Bianchi</a> 
-  </b>
+  Made with ❤️ by <b><a href="https://github.com/vbianchidev/" target="_blank">Vitor Bianchi</a></b>
 </p>
