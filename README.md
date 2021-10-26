@@ -15,7 +15,7 @@ confusing data into clear and clean information.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
-![Nodejs](https://img.shields.io/badge/-Nodejs?style=flat-square&logo=Nodejs)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat-square&logo=Nodejs)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-000000?style=flat&logo=SQLServer)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
