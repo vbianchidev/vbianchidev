@@ -1,7 +1,7 @@
 # Hi, I’m Vitor Bianchi (@vbianchidev) 👨‍💻
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vbianchidev/)](https://github.com/vbianchidev/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-bianchi-0a10ba205/)](https://www.linkedin.com/in/vitor-bianchi-0a10ba205/)
+[![Github Badge](https://img.shields.io/badge/-Github-1a1b27?style=for-the-badge&logo=Github&logoColor=38bdae)](https://github.com/vbianchidev/)&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=Linkedin&logoColor=38bdae&link=https://www.linkedin.com/in/vitor-bianchi-0a10ba205/)](https://www.linkedin.com/in/vitor-bianchi-0a10ba205/)
 
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" width="250"/>
 
