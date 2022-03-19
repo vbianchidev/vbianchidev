@@ -5,10 +5,9 @@
 
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" width="250"/>
 
-I’m a Fullstack Web Developer(.NET Framework & Angular) and
-my two loves is Data Science and Web Design.<br>
-I'm fascinated by the art of transforming complex and
-confusing data into clear and clean information.<br><br><br>
+Olá, sou Vitor Bianchi (@vbianchidev).
+Atualmente trabalho como desensolvedor web Full-Stack utilizando as tecnologias .NET Framework e Angular.
+Sou um grande entusiasta no ramo da tecnologia e odeio estagnação, sempre busco me manter atualizado com o que há de mais novo no mercado, e a melhor linguagem de programação que existe é a que melhor resolva meu problema.
 
 <br/>
 
