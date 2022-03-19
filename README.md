@@ -33,8 +33,9 @@ Sou um grande entusiasta no ramo da tecnologia e odeio estagnação, sempre busc
   </a>
 </p>
 
-
+<p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbianchidev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=22272E&currStreakLabel=38BDAE&ring=38BDAE&fire=38BDAE&stroke=628FDA)](https://git.io/streak-stats)
+</p>
 
 <p align="center">
   Made with ❤️ by <b><a href="https://github.com/vbianchidev/" target="_blank">Vitor Bianchi</a></b>
