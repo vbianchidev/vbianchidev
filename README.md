@@ -1,8 +1,3 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&color=101a3a&fontColor=a2ea06&text=Vitor%20Bianchi&height=150&fontSize=60&desc=@vbianchidev&descAlignY=78&descAlign=63">
-</p>
-
 # Hi, I’m Vitor Bianchi (@vbianchidev) 👾
 
 I am a big enthusiast in the field of technology and I hate stagnation, I always try to keep up to date with what best solves the problem on the market, and the best programming language that exists<br/>
