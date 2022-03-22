@@ -24,6 +24,7 @@ Currently I work as a Full-Stack web developer using the technologies: NET Frame
 ![Nodejs](https://img.shields.io/badge/NodeJS-101a3a?style=for-the-badge&logo=node.js&logoColor=a2ea06)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-101a3a?style=for-the-badge&logo=typescript&logoColor=a2ea06)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-101a3a?style=for-the-badge&logo=NestJS&logoColor=a2ea06)&nbsp;
+
 ![Python](https://img.shields.io/badge/Python-101a3a?style=for-the-badge&logo=python&logoColor=a2ea06)&nbsp;
 ![CSharp](https://img.shields.io/badge/C%23-101a3a?style=for-the-badge&logo=c-sharp&logoColor=a2ea06)&nbsp;
 ![DotNET](https://img.shields.io/badge/-.NET-101a3a?style=for-the-badge&logo=.Net&logoColor=a2ea06)&nbsp;
