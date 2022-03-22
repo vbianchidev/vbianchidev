@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=101a3a&fontColor=a2ea06&text=Vitor%20Bianchi&height=150&fontSize=60&desc=@vbianchidev&descAlignY=78&descAlign=63)
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=101a3a&fontColor=a2ea06&text=Vitor%20Bianchi&height=150&fontSize=60&desc=@vbianchidev&descAlignY=78&descAlign=63">
+</p>
 
 # Hi, I’m Vitor Bianchi (@vbianchidev) 👾
 
