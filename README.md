@@ -32,16 +32,16 @@ Currently I work as a Full-Stack web developer using the technologies: NET Frame
 
 <br/>
 
-## Stats
+## Github Stats
 
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=vbianchidev&show_icons=true&locale=pt-BR&layout=compact&title_color=09f5d9&text_color=a2ea06&hide_border=true&bg_color=101a3a&icon_color=101a3a" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=vbianchidev&show_icons=true&locale=pt-BR&layout=compact&title_color=a2ea06&text_color=ffffff&hide_border=true&bg_color=101a3a&icon_color=101a3a" 
     alt="vbianchidev"/>
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=vbianchidev&show_icons=true&locale=pt-BR&title_color=09f5d9&text_color=a2ea06&hide_border=true&bg_color=101a3a&icon_color=09f5d9" 
+    src="https://github-readme-stats.vercel.app/api?username=vbianchidev&show_icons=true&locale=pt-BR&title_color=a2ea06&text_color=ffffff&hide_border=true&bg_color=101a3a&icon_color=a2ea06" 
     alt="vbianchidev"/>
 </p>
 
