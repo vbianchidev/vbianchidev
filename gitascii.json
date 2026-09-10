@@ -1,4 +1,5 @@
 {
+  "username": "vbianchidev",
   "widgets": [
     {
       "widgetId": "header",
@@ -11596,7 +11597,7 @@
         "textColor": "#ffffff",
         "backgroundColor": "github-auto"
       },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 4
     },
@@ -11641,5 +11642,6 @@
     "themeMode": "auto",
     "templateStyle": "native"
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
