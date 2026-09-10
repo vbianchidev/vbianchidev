@@ -11661,7 +11661,7 @@
     "textColor": "#ffffff",
     "accentColor": "github-auto",
     "borderColor": "github-auto",
-    "fontFamily": "Fira Code",
+    "fontFamily": "JetBrains Mono",
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "auto",
