@@ -1,6 +1,6 @@
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/vbianchidev?v=1789030592464"
+    src="https://gitascii.com/api/vbianchidev?v=1789030741664"
     alt="GitAscii Widget"
     width="100%"
   />
