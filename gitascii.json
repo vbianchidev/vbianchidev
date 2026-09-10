@@ -11597,7 +11597,7 @@
         "textColor": "#ffffff",
         "backgroundColor": "github-auto"
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 4
     },
@@ -11629,6 +11629,28 @@
       "locked": true,
       "visible": true,
       "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1789032172931",
+      "widgetId": "footer",
+      "name": "Footer Widget",
+      "position": {
+        "x": 0,
+        "y": 703
+      },
+      "size": {
+        "width": 800,
+        "height": 50
+      },
+      "config": {
+        "customTitle": "https://gitascii.com/vbianchidev",
+        "accentColor": "#ffffff",
+        "textColor": "#ffffff",
+        "borderColor": "github-auto"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
