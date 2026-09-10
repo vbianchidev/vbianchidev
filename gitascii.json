@@ -15,9 +15,10 @@
       "config": {
         "hideDecorations": true,
         "hideBorder": true,
-        "backgroundColor": "github-auto",
+        "backgroundColor": "transparent",
         "accentColor": "#e28413",
-        "textColor": "#ffffff"
+        "textColor": "#ffffff",
+        "lockAspectRatio": true
       },
       "locked": true,
       "visible": true,
@@ -11569,7 +11570,7 @@
         "hideBorder": true,
         "hideDecorations": true,
         "dotLeaders": true,
-        "backgroundColor": "github-auto"
+        "backgroundColor": "transparent"
       },
       "locked": true,
       "visible": true,
@@ -11595,7 +11596,7 @@
         "lockAspectRatio": true,
         "accentColor": "#ffffff",
         "textColor": "#ffffff",
-        "backgroundColor": "github-auto"
+        "backgroundColor": "transparent"
       },
       "locked": true,
       "visible": true,
@@ -11624,7 +11625,8 @@
           "twitter": "https://x.com/vbianchidev",
           "website": "https://vbianchi.com.br",
           "email": "mailto:vitor.biansil@gmail.com"
-        }
+        },
+        "backgroundColor": "transparent"
       },
       "locked": true,
       "visible": true,
@@ -11646,23 +11648,25 @@
         "customTitle": "https://gitascii.com/vbianchidev",
         "accentColor": "#ffffff",
         "textColor": "#ffffff",
-        "borderColor": "github-auto"
+        "borderColor": "github-auto",
+        "backgroundColor": "transparent"
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 6
     }
   ],
   "globalStyles": {
     "backgroundColor": "github-auto",
-    "textColor": "github-auto",
+    "textColor": "#ffffff",
     "accentColor": "github-auto",
     "borderColor": "github-auto",
-    "fontFamily": "JetBrains Mono",
+    "fontFamily": "Fira Code",
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "auto",
-    "templateStyle": "native"
+    "templateStyle": "native",
+    "transparentBackground": true
   },
   "templateId": "terminal",
   "profileSlug": "default"
