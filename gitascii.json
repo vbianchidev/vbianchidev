@@ -18,7 +18,7 @@
         "accentColor": "#e28413",
         "textColor": "#ffffff"
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 1,
       "instanceId": "widget_1789027755335_0"
@@ -11525,7 +11525,7 @@
         "hideDecorations": true,
         "accentColor": "#e28413"
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 2,
       "instanceId": "widget_1789027755335_1"
@@ -11570,7 +11570,7 @@
         "dotLeaders": true,
         "backgroundColor": "github-auto"
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1789027755335_2"
@@ -11596,7 +11596,7 @@
         "textColor": "#ffffff",
         "backgroundColor": "github-auto"
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 4
     },
@@ -11625,7 +11625,7 @@
           "email": "mailto:vitor.biansil@gmail.com"
         }
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 5
     }
